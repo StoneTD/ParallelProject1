@@ -10,6 +10,7 @@ A computer with Java installed
 3. Navigate to the Downloads folder by typing the command `cd Downloads`
 4. Compile the program by typing the command `javac FindPrimes.java`
 5. Run the program by typing the command `java FindPrimes`
-6. The output for the program follows the format of <br>
+6. Navigate to your downloads folder to find the text file `primes.txt`
+7. The text file is formatted in the following way <br>
 <[elapsed runtime in seconds]> <[number of prime numbers found]> <[sum of all prime numbers found]> <br>
 <[largest 10 prime numbers found, separated by commas]>
