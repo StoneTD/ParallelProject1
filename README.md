@@ -11,5 +11,5 @@ A computer with Java installed
 4. Compile the program by typing the command `javac FindPrimes.java`
 5. Run the program by typing the command `java FindPrimes`
 6. The output for the program follows the format of
-<[elapsed time in program in seconds]> <[total number of prime numbers found]> <[sum of all prime numbers found]>
+<[elapsed time in program in seconds]> <[number of prime numbers found]> <[sum of all prime numbers found]> <br>
 <[largest 10 prime numbers found]>
