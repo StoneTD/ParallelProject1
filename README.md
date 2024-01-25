@@ -4,8 +4,8 @@ A computer with Java installed
 
 ## Instalation Process
 1. Download the FindPrimes.java file
-2. Open Command prompt
-   a) For Windows: press the Windows Key and search for Command Prompt.
+2. Open Command prompt <br>
+   a) For Windows: press the Windows Key and search for Command Prompt. <br>
    b) For Mac: click the Launchpad icon in the Dock then search for Terminal.
 3. Navigate to the Downloads folder by typing the command `cd Downloads`
 4. Compile the program by typing the command `javac FindPrimes.java`
