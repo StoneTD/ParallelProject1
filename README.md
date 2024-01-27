@@ -14,3 +14,6 @@ A computer with Java installed
 7. The text file is formatted in the following way <br>
 <[elapsed runtime in seconds]> <[number of prime numbers found]> <[sum of all prime numbers found]> <br>
 <[largest 10 prime numbers found, separated by commas]>
+
+## Report
+The program uses an incredibly efficient algorithm called the Sieve of Eratosthenes in order to quickly calculate prime numbers, computing even 10^8 primes in under 5 seconds during testing. This is sped up even faster by using multithreaded processing to have the algorithm run on multiple separate blocks of numbers at the same time, in which it averaged out to about 3 seconds when tested.
